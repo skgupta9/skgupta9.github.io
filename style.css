@@ -1,0 +1,118 @@
+#a
+{
+background: rgb(77, 70, 70);
+text-align: center;
+font-family: courier new;
+color: rgb(51, 204, 51);
+padding: 30px
+}
+h4
+{
+margin-top: -28px
+}
+#d
+{
+background: rgb(51, 204, 51);
+padding: 15px;
+border-radius: 5px;
+margin: 20px;
+color: white
+}
+#b
+{
+padding: 10px 20px 10px 20px;
+}
+#b:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+#c
+{
+padding: 10px 20px 10px 20px;
+}
+#c:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+#e
+{
+padding: 10px 20px 10px 20px;
+}
+#e:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+#f
+{
+padding: 10px 20px 10px 20px;
+}
+#f:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+#g
+{
+padding: 10px 20px 10px 20px;
+}
+#g:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+#h
+{
+padding: 10px 20px 10px 20px;
+}
+#h:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+#i
+{
+padding: 10px 20px 10px 20px;
+}
+#i:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+#j
+{
+padding: 10px 20px 10px 20px;
+}
+#j:hover
+{
+padding: 10px 20px 10px 20px;
+background: #006600
+}
+.img
+{
+padding-right: 30px
+}
+#text
+{
+padding-left: 40px;
+padding-top: 60px
+}
+#head1
+{
+font-family: arial;
+font-size: 200%;
+color: rgb(51, 204, 51);
+}
+#text2
+{
+padding-left: 40px;
+padding-top: 60px
+}
+#head2
+{
+font-family: arial;
+font-size: 200%;
+color: rgb(51, 204, 51);
+}
